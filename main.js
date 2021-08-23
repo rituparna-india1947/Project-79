@@ -1,7 +1,7 @@
 menu_list_array=[  
     "Chicken Tandoori Pizza",
     "Deluxe Veggie Pizza",
-    "Panner Tikka Pizza",
+    "Paneer Tikka Pizza",
     "Veg Extravaganza Pizza",
     "Veg Margherita Pizza",
     "Veg Supreme Pizza",
